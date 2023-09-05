@@ -1,7 +1,7 @@
 /*****************************
 *   Mace +2: The Stupefier   *
 *****************************/
-COPY ~%MOD_FOLDER%/craftable-items/items/maces/BZMA41BI.BAM~ ~override/BZMA41BI.BAM~
+COPY ~%MOD_FOLDER%/craftable-items/weidu/items/maces/BZMA41BI.BAM~ ~override/BZMA41BI.BAM~
 
 COPY_EXISTING ~BLUN41.ITM~ ~override/BZMAC41B.ITM~ //Mace +1 Stupefier -> +2
     //Patches
