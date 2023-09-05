@@ -1,10 +1,14 @@
 # Bardez's BG:EE Craftable Items
 Version: 1.0.0
+
 Author: [Bardez](https://github.com/BardezAnAvatar)
+
 Bugs reports to [repository's GitHub Issues](https://github.com/BardezAnAvatar/BGEE-Craftable-Items/issues)
+
 
 ## Introduction
 This repo is intended to be a sub-module for other mods. It will contain assets, translation strings, and item creation codes as well as recipes for other mods to consume (such as to make the items in dialog action scripts).
+
 
 ## Remarks
 I am using the `BZ` prefix for my items. It is registered at Black Wyrm Lair: http://www.blackwyrmlair.net/prefixes/
