@@ -22,3 +22,4 @@
 | Buckley's Buckler +1               | BZSHL33A |
 | Kiel's Helmet +1                   | BZHLM14A |
 | Dagger +2: Werebane                | BZDAG09B |
+| Scroll Scribe Kit                  | BZMSCSC  |
