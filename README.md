@@ -274,8 +274,8 @@ The upgrate will require Werebane; 2 gold necklaces; 2 oils of speed; and 5,000 
 
 
 ### SoA Recipe expansion
-BLUN09 (Kiel's Morning Star +3) [Remove Curse, something] [SoA]
-SHLD19 (Pellan's Shield +2) 2-> 3 [SoA]
+- BLUN09 (Kiel's Morning Star +3) [Remove Curse, something] [SoA]
+- SHLD19 (Pellan's Shield +2) 2-> 3 [SoA]
 
 
 
