@@ -1,5 +1,5 @@
 # Bardez's BG:EE Craftable Items
-Version: 1.0.1
+Version: 1.1.0
 
 Author: [Bardez](https://github.com/BardezAnAvatar)
 
@@ -41,6 +41,7 @@ I am using the `BZ` prefix for my items. It is registered at Black Wyrm Lair: ht
 | Add melee/ranged icons to dagger   |  0.2.2  |
 | Refactor items into submodule      |  1.0.0  |
 | Correct resource paths in TPHs     |  1.0.1  |
+| Russian translation                |  1.1.0  |
 
 
 
@@ -70,7 +71,7 @@ Upgrades the +2 longsword to +3; requires 1 emerald, 1 Cone of Cold scroll, 1 Va
 ### Koveras' Ring of Protection
 Ever since I "authored" the BGT mod, I felt this pull towards Koveras' ring of protection. It felt like an item that should have a story to itself, not just a basic clone of a +1 Ring of Protection. It felt like an item that you should be able to keep as a trophy, a momento or other and I always felt it was bogus that this never had anything done with it, but the _golden pantaloons_ did have a C-plot. After checking Github for this item in the BGT repo (not there), and my HDDs from 20-ish years ago (still there), I wanted to put it back in.
 
-This component has two sub-components; both will replace the Ring of Princes flavor text with a description matching in-game events. 
+This component has two sub-components; both will replace the Ring of Princes flavor text with a description matching in-game events.
 One will have Koveras offer you a cursed ring, the other will leave the interaction as-is. Both paths will have an upgrade to the +2 ring of protection.
 
 #### +1 Ring
@@ -253,23 +254,23 @@ The upgrate will require Werebane; 2 gold necklaces; 2 oils of speed; and 5,000 
 ## Future Plans
 
 ### SoD Recipe expansion
-AX1H03 from +2-> +3 [SoD]
-AX1h06 +2-> +3 [SoD]
-BDBLUN05 +2-> +3 [SoD]
-BDBLUN08 (glimmer of hope) 2-> 3 [SoD]
-BDDAGG01 (elements' fury) [SoD] 2-> 3
-BDHALB01 (storm pike +2)  [SoD] 2-> 3
-BDHALB03 (cold fury +2) [SoD] 2-> 3
-BDSW1H22 (Severance +2) [SoD] 2-> 3
-BLUN11/42 (Skullcrusher +2) [SoD] 2-> 3
-BLUN39 (Thresher +2) [SoD] 2-> 3
-BDAX1h05 (Grubdoubler's Axe +1) 1-> 2 [SoD]
-BDBLUN02 (Cudgel of Montonger +1) 1-> 2 [SoD]
-BDSW1H08 (Dervish Crescent +2) 2-> 3 [SoD]
-BDSW1H20 (Ophyllis' Short Sword +2) 2-> 3 [SoD]
-BDSW1H21 (Vexaction +2) 2-> 3 [SoD]
-BDSW1H25 (Spell Breaker +2) 2-> 3 [SoD]
-BLUN41 (Stupifier +1) 2-> 3 [SoD]
+- AX1H03 from +2-> +3 [SoD]
+- AX1h06 +2-> +3 [SoD]
+- BDBLUN05 +2-> +3 [SoD]
+- BDBLUN08 (glimmer of hope) 2-> 3 [SoD]
+- BDDAGG01 (elements' fury) [SoD] 2-> 3
+- BDHALB01 (storm pike +2)  [SoD] 2-> 3
+- BDHALB03 (cold fury +2) [SoD] 2-> 3
+- BDSW1H22 (Severance +2) [SoD] 2-> 3
+- BLUN11/42 (Skullcrusher +2) [SoD] 2-> 3
+- BLUN39 (Thresher +2) [SoD] 2-> 3
+- BDAX1h05 (Grubdoubler's Axe +1) 1-> 2 [SoD]
+- BDBLUN02 (Cudgel of Montonger +1) 1-> 2 [SoD]
+- BDSW1H08 (Dervish Crescent +2) 2-> 3 [SoD]
+- BDSW1H20 (Ophyllis' Short Sword +2) 2-> 3 [SoD]
+- BDSW1H21 (Vexaction +2) 2-> 3 [SoD]
+- BDSW1H25 (Spell Breaker +2) 2-> 3 [SoD]
+- BLUN41 (Stupifier +1) 2-> 3 [SoD]
 
 
 ### SoA Recipe expansion
